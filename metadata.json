@@ -1,0 +1,6 @@
+{
+  "name": "MapRank Pro - Google Maps Profile Optimization",
+  "description": "Professional Google Business Profile and Google Maps optimization service starting at ₹399 for local shops, clinics, salons, and services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
